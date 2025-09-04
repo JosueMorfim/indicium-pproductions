@@ -24,5 +24,7 @@ pip install -r requirements.txt
 ```bash
 python src/exemplo_previsao.py
 ```
-Previsão de saída: A nota prevista para The Shawshank Redemption é: 8.83
-
+Previsão de saída:
+```
+A nota prevista para The Shawshank Redemption é: 8.83
+```
