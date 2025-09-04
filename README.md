@@ -13,5 +13,5 @@ O objetivo é prever a nota de filmes no IMDb a partir de variáveis como duraç
 ## ⚙️ Como instalar
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/indicium-imdb.git
-cd indicium-imdb
+git clone https://github.com/JosueMorfim/indicium-pproductions.git
+cd indicium-pproductions
